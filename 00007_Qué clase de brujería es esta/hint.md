@@ -1,0 +1,1 @@
+Cuidado :warning: también hay un `<h2>` dentro del `<aside>` pero no queremos que quede afectado por la clase `titulo`. Recordá que los selectores de clase llevan un `.` delente del nombre y que para hacer que elemento pertenezca a una clase debemos escribir el atributo `class` dentro de su etiqueta en el HTML.

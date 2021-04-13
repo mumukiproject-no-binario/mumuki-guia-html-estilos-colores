@@ -1,0 +1,1 @@
+¡Excelente! A este nuevo tipo de regla se la conoce como _selector de clase_ y, en este caso, solo afectará a los elementos que sean de la clase `descripcion`. Si observás bien :eyes: el selector del _selector de clase_ es diferente al del selector de elemento, ¡siempre empiezan con un `.`!

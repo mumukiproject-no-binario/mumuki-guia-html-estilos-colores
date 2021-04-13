@@ -1,0 +1,1 @@
+¡Se pintó el fondo! :open_mouth: ¿¡Y desaparecieron las letras!? :scream: No, lo que pasó es que ahora nuestro `<body>` tiene un color de fondo (`background-color`) negro (`black`) y las letras también lo son :sweat_smile:. ¡Cambiémoslo!

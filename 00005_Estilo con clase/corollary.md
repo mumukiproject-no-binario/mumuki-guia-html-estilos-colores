@@ -1,0 +1,1 @@
+Exacto, si creamos una regla que modifique a los `<p>` lo hará tanto para el párrafo de la descripción como para el del elenco porque el CSS no nos puede leer la mente :sweat_smile:. Peeero podríamos _clasificar_ lo que queremos modificar. ¿Cómo? :open_mouth:

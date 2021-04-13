@@ -1,0 +1,1 @@
+¡Ahora sí se puede leer! :eyes: Eso es porque cambiamos el color de fondo por uno que contraste mejor con el color de nuestro texto. Una buena elección de colores hace que demos una mejor [experiencia de usuario](https://es.wikipedia.org/wiki/Experiencia_de_usuario) para que todo el mundo quiera usar nuestra página. :tada:

@@ -1,0 +1,3 @@
+¡Excelente! :clap: Ya sabés cambiar el color de los textos con la propiedad `color` y el de los fondos con `background-color` :art:. Para eso tuviste que crear reglas CSS que modificaran a los elementos HTML (**selectores de elemento**) o a clases HTML (**selectores de clase**). También te comentamos sobre los **selectores de id** pero no recomendamos su uso porque no se pueden reutilizar :persevere:.
+¿Y qué colores podemos usar? ¡Un montón! Porque además de los que existen, podemos crear los que queramos gracias al **código RGB**.
+¡Sigamos descubriendo qué otros estilos podemos cambiar con CSS! :muscle: 

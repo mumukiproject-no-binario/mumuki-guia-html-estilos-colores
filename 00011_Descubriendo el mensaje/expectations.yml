@@ -1,0 +1,5 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
+  inspection: DeclaresStyle:color:rgb(255,255,255)

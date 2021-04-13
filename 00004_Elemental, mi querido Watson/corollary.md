@@ -1,0 +1,1 @@
+¡Excelente! Vamos a usar la propiedad `background-color` para cambiar el color de fondo, y `color` para cambiar el color del texto de lo que le indiquemos. :art:

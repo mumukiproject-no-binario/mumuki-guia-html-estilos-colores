@@ -1,0 +1,3 @@
+¡Muy bien! :clap: A partir de ahora vamos a tener un archivo `index.html` donde va a estar la estructura de la receta que construimos en la lección anterior y el archivo `receta.css` que va a contener el estilo que le vamos a dar a esa estructura. 
+
+Para asociar los archivos HTML a los CSS se utiliza el tag `<link>` en el `<head>` del archivo HTML que tiene como atributos `href` donde vamos a escribir la ubicación del archivo que necesitamos y `rel` donde especificamos la relación entre estos dos archivos. En nuestro caso vamos a usar `<link href="receta.css" rel="stylesheet">`. ¡Sigamos! :dizzy:

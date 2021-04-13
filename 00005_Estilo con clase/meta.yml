@@ -1,0 +1,20 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: sólo cambiará el color de las descripciones, ¡claro!
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: no sólo cambiará el color de las descripciones, sino también de los elencos.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: cambiará el color de todos los elementos.
+  checked: false
+name: Estilo con clase

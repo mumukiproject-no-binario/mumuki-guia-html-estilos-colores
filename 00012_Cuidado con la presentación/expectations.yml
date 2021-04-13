@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:body
+  inspection: DeclaresStyle:background-color:bisque
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:aside
+  inspection: DeclaresStyle:color:blue
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.titulo-genero
+  inspection: DeclaresStyle:color:rgb(255,91,129)
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.titulo-pelicula
+  inspection: DeclaresStyle:color:rgb(11,70,93)
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section/h1
+  inspection: DeclaresAttribute:class="titulo-genero"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section/article/h4
+  inspection: DeclaresAttribute:class="titulo-pelicula"

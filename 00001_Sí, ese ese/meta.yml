@@ -1,0 +1,26 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Contenido dividido en diferentes secciones.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El color de fondo de una página.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El tamaño del texto de un párrafo.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El texto de un párrafo.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El tipo de letra de los títulos.
+  checked: true
+name: Sí, ese ese

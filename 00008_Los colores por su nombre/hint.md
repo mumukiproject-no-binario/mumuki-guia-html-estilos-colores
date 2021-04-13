@@ -1,0 +1,1 @@
+Así como podíamos declarar `color: red;` podemos hacerlo con su equivalente en código RGB, `color: rgb(255, 0, 0);`. Estemos usando códigos RGB o nombres de colores, la propiedad sigue siendo `color`.

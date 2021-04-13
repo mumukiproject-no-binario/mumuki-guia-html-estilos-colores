@@ -1,0 +1,1 @@
+La propiedad `background-color` nos permite cambiar el color de fondo pero ahora tenemos que cambiar el color del texto. :eyes:

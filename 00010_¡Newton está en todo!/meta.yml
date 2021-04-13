@@ -1,0 +1,26 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Rojo
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Amarillo
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Azul
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Violeta
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Verde
+  checked: true
+name: "¡Newton está en todo!"
